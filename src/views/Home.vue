@@ -55,7 +55,7 @@
 export default {
   data() {
     return {
-      items: [{ text: "Home", disabled: true, href: "/home" }],
+      items: [{ text: "Home", disabled: true, href: "/meinprojects" }],
     };
   },
 };

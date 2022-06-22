@@ -87,7 +87,7 @@ export default {
   data() {
     return {
       items: [
-        { text: "Home", disabled: false, href: "/home" },
+        { text: "Home", disabled: false, href: "/meinprojects" },
         { text: "About", disabled: true, href: "breadcrumbs_link_1" },
       ],
     };

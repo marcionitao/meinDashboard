@@ -82,7 +82,7 @@ export default {
       messageRules: [(v) => !!v || "Message is required"],
 
       items: [
-        { text: "Home", disabled: false, href: "/home" },
+        { text: "Home", disabled: false, href: "/meinprojects" },
         { text: "Contact", disabled: true, href: "breadcrumbs_link_1" },
       ],
     };
