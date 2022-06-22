@@ -115,7 +115,7 @@ export default {
     return {
       // projects: [],
       items: [
-        { text: "Home", disabled: false, href: "breadcrumbs_link_1" },
+        { text: "Home", disabled: false, href: "/home" },
         { text: "My Projects", disabled: true, href: "breadcrumbs_dashboard" },
       ],
     };

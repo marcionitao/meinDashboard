@@ -46,7 +46,7 @@ export default {
         { name: "Figma", role: "prototype", avatar: "figma.png" },
       ],
       items: [
-        { text: "Home", disabled: false, href: "breadcrumbs_dashboard" },
+        { text: "Home", disabled: false, href: "/home" },
         { text: "Skills", disabled: true, href: "breadcrumbs_link_1" },
       ],
     };
